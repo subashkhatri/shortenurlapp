@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "https://www.amazon.com/Apple-iPhone-Fully-Unlocked-32GB/dp/B07TVVWNBG/ref=olp_product_details?_encoding=UTF8&me="
+}
